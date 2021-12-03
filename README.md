@@ -1,32 +1,38 @@
 # Getting Started
 
-This was the blood donor UI application and crated using ReactJS.
+Blood Bank Donor UI application was crated using ReactJS.
 These instructions will get you a copy of the project up and running on local machine.
 
 ## Installing
 
 ### A step by step series of examples to get the test environment running
 
-1.	Software Installation
-    ```
-	•	VisualStudio installed as a code editor.	
-	•	NodeJS installed to create the running envronment.
+1. Software Installation
+  
+ ``` bash
+$ VisualStudio installed as a code editor.	
+$ NodeJS installed to create the running envronment.
+```
 
-2.	Git Repository Clone
-    ```
+2. Git Repository Clone
 
-	•	Clone the repository using the command "git clone” or Download the zip from the URL and unzip it.
+``` bash
+# clone the repo
+$ git clone https://github.com/PiyumeeJ/blood-bank-admin-view.git
 
-                Git Repository: https://github.com/PiyumeeJ/blood-bank-donar-view.git
+# go into app's directory
+$ cd my-project
 
-3.	Project Preparation.
+# checkout stable version
+$ git checkout master
 
-	Import the project into the VisualStudio. 
-
+# install app's dependencies
+$ npm install
+```
 	
-4.	Running the project in VisualStudio 
+3. Running the project in VisualStudio 
 
-  ## `npm start`
+  ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
