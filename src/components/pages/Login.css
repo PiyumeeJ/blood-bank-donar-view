@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.login-form {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.form-item {
+    display: flex;
+    flex: 1;
+    justify-items: center;
+}
+
+.login-img {
+    display: flex;
+    flex: 1;
+    max-width: 50%;
+}
+
+img {
+    padding: 5px;
+    width: 100%;
+  }

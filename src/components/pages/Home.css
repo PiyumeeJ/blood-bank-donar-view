@@ -1,0 +1,25 @@
+.panelContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.panel {
+  flex: 1 1 30%;
+  cursor: pointer;
+  /* background-color: transparent; */
+  height: 300px;
+  perspective: 1000px;
+  /* background-color: aqua; */
+  /* overflow: hidden; */
+  padding: 5px;
+  
+}
+
+
+
+.homeContainer {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}

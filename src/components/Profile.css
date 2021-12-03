@@ -1,0 +1,13 @@
+.paperContainer {
+    padding: 30px 20px;
+    width: 400px;
+    margin: 20px auto;
+}
+
+.avatarContainer {
+    background-color: red;
+}
+
+.formControllerContainer {
+    margin-top: 15px;
+}
